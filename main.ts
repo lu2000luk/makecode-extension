@@ -1,19 +1,19 @@
 //% color="#3e0ffa" weight=100
 namespace luk {
-    //% block name="estenzione inutile creata da lu2000luk"
+    //% block name="ProjectUtility by lu2000luk"
     export function herld() {
 
     }
 
-    //% block name="fatto!"
+    //% block name="Completed!"
     export function seTwo() {
 
     }
-    //% block name="da finire"
+    //% block name="To do"
     export function lCaseTwo() {
 
     }
-    //% block name="commento"
+    //% block name="comment"
     export function wo() {
 
     }
